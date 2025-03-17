@@ -1,0 +1,4 @@
+aiogram==3.0.0b7
+psycopg2==2.9.3
+asyncio
+docxtpl==0.16.2
